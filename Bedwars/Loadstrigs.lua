@@ -1,3 +1,4 @@
+-- Vape
 local Vape = {}
 local Whitelist = {game.Players.LocalPlayer.Name}
 
@@ -13,3 +14,12 @@ function Vape.Module(Version, Is_Public)
 end
 
 Vape.Module('V4', false)
+
+-- Smoke
+local Smoke = {}
+
+Smoke.Module(Version, Creator()
+	if Version == "V1" then
+		return print("e"0
+	end
+end
